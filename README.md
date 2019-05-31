@@ -3,15 +3,12 @@
 
 ___
 
-<img align="left" src="https://github.com/Lucisu/DinosaurFace/blob/master/imgs/screenshots/1.png?raw=true" style="max-width:48%;float: left;" />
+<img align="left" src="https://github.com/Lucisu/DinosaurFace/blob/master/imgs/screenshots/1.png?raw=true" width="49%" align="left" />
 
-<img align="left" src="https://github.com/Lucisu/DinosaurFace/blob/master/imgs/screenshots/2.png?raw=true" style="max-width:48%;float: left;margin-left:10px;" />
+<img align="left" src="https://github.com/Lucisu/DinosaurFace/blob/master/imgs/screenshots/2.png?raw=true" width="49%" align="right"/>
 
 <br />
 <br />
-<br />
-<br />
-
 
 ## Installation
 
