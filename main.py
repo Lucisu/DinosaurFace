@@ -8,7 +8,6 @@ import time
 from mss import mss
 import os
 from imutils import face_utils
-
 root = tk.Tk()
 
 screen_width = root.winfo_screenwidth()

@@ -3,7 +3,11 @@
 
 ___
 
-#### Installation
+![Exemplo 1](https://github.com/Lucisu/DinosaurFace/blob/master/imgs/screenshots/1.png?raw=true)
+
+![Exemplo 2](https://github.com/Lucisu/DinosaurFace/blob/master/imgs/screenshots/2.png?raw=true)
+
+## Installation
 
 ```shell
 $ git clone https://github.com/Lucisu/DinosaurFace.git
@@ -13,7 +17,7 @@ $ pip3 install -r requirements.txt
 
 ###### Don't forget: You need install CMake before install Dlib
 
-#### Execute
+## Execute
 
 Open Chrome, with the game, and:
 ```shell
@@ -24,7 +28,7 @@ $ python3 main.py
 
 ###### When the script starts, it will try to find the dinosaur. If finded, the frame with your webcam video will be displayed, and you need click on Chrome window to focus.
 
-#### How does it work
+## How does it work
 
 First, script try to find the dinosaur, to prevent launching keys in the wrong place.
 
