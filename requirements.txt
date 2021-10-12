@@ -1,5 +1,5 @@
 PyAutoGUI==0.9.42
-opencv_python==4.1.0.25
+opencv_python==4.1.1.26
 dlib==19.17.0
 numpy==1.16.1
 mss==4.0.3
